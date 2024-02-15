@@ -1,0 +1,35 @@
+.login {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    border-radius: 10px; /* Adjust the radius as needed */
+  background-color: #007bff;
+  color: white;
+  width: 200px;
+  text-align: center;
+  height: 5vh;
+}
+.signup {
+    position: fixed;
+    top: 0;
+    right: 230px;
+    padding: 10px;
+    border-radius: 10px; /* Adjust the radius as needed */
+  background-color: #007bff;
+  color: white;
+  width: 200px;
+  text-align: center;
+  height: 5vh;
+
+}
+
+.carousel{
+    height: 70vh;
+    width: 100vh;
+    position: absolute;
+  top: 27vh;
+  left: 50vh;
+  margin-left: -50vh; /* Half of the width */
+  margin-top: -45vh; /* Half of the height */
+}
